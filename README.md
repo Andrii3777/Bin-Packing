@@ -1,11 +1,11 @@
 # <div align="center">Bin packing</div>
 
-### Task
+## Task
 To develop functionality that effectively packing rectangular blocks in
 rectangular 2D container. The location of the blocks in the container must be
 as dense as possible in order to rationally use the container space
 
-### Algorithms
+## Algorithms
 This project presents two algorithms o solve the task.
 In the file index.ts you can choose which algorithm of the two will be used:
 
@@ -18,9 +18,7 @@ const algorithm = constants.ALGORITHM_2;
 although at the same time ensures that the fullness will be will be equal 1 always.
 - **ALGORITHM_2**: gives a much slower solution, but in some cases gives a denser arrangement of blocks.
 
-### Running the app (without DOCKER)
-
-## Installation first time only!
+## Running the app. Installation first time only!
 
 ```bash
 # install the dependencies
