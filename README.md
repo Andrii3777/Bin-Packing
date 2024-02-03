@@ -1,4 +1,4 @@
-#### Bin packing
+# <div align="center">Bin packing</div>
 
 ### Task
 To develop functionality that effectively packing rectangular blocks in
